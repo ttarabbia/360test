@@ -2,6 +2,7 @@
 	-
 - [[Diagnoses]]
 	- [[Functional Movement Disorder]]
+	- [[Benign paroxysmal positional vertigo]]
 - [[Maneuvers and treatments]]
 	-
 - [[Referring out]]
