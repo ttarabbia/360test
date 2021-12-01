@@ -83,4 +83,5 @@
    :favorites ["Map of Content"]
    :preferred-workflow :todo
    :feature/enable-journals? false
-   :default-home {:page "Map of Content"}}
+   :default-home {:page "Map of Content"}
+   :publishing/all-pages-public? true}
