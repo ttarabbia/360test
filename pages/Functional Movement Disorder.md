@@ -1,7 +1,7 @@
 alias:: FMD, Convergence disorder
 
 - Functional Movement Disorders Overview
-	- ![functional-movement-disorders-updated-overview.pdf](../assets/functional-movement-disorders-updated-overview_1638394057025_0.pdf)
+	- ![functional-movement-disorders-updated-overview.pdf](../assets/functional-movement-disorders-updated-overview_1638401391773_0.pdf) 
 	  type:: [[Clinical Paper]]
 	  authors:: Ahmed H Subki, Abdulaziz M Alkahtani
 	  tags:: FMD, diagnosis
@@ -11,6 +11,7 @@ alias:: FMD, Convergence disorder
 				- ((61a7ea04-dbc0-409c-849e-8ae061fd08bb))
 			- [[Dystonia]]
 				- ((61a7ea20-d3b7-4d8c-9290-f02f4d23c620))
+			- ((61a80580-9f99-4a83-bea5-47aeccf548bc))
 			-
 - Table
   collapsed:: true
