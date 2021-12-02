@@ -4,6 +4,7 @@ collapsed:: true
 - # [[Diagnoses]]
 	- [[Functional Movement Disorder]]
 	- [[Benign paroxysmal positional vertigo]]
+	- [[Meniere's Disease]]
 - # [[Maneuvers and treatments]]
   collapsed:: true
 	-
