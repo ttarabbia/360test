@@ -80,7 +80,7 @@
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {}
    :ui/show-brackets? false
-   :favorites ["Map of Content"]
+   :favorites ["Homepage" "Knowledge Management" "Map of Content"]
    :preferred-workflow :todo
    :feature/enable-journals? false
    :default-home {:page "Homepage"}
