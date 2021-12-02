@@ -8,6 +8,10 @@
 - [[Maneuvers and treatments]]
   collapsed:: true
 	-
+- [[Tests]]
+	- [[Audiogram]]
+	- [[VNG]]
+	- [[ECoG]]
 - [[Drugs]]
   collapsed:: true
 	-
@@ -15,6 +19,7 @@
   collapsed:: true
 	-
 - [[Operating Procedures [[PT]]]]
+  collapsed:: true
 	- [[Reschedules]]
 	- [[Referring out]]
 		- [[Neurologists]]
