@@ -10,6 +10,8 @@
 # Solution
 	- Think back to hiring someone new - what do they need to know?
 		- Top 10 TheraOffice documentation or billing questions and guidelines
-		- Top 10
+		- Top 10 risky symptoms to be careful treating (neck, cardio, etc.)
+		- Top 10 most common tests
+		- Top 10 most
 	- [[Homepage]]
 	-
