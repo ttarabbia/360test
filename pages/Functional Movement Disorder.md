@@ -2,7 +2,8 @@ alias:: FMD, Convergence disorder
 
 - Functional Movement Disorders are characterized by .... and such
 -
-- Table
+- Symptoms
+  collapsed:: true
 	- | Typical Symptoms     | Description | External Resource |
 	  |--|--|--|
 	  | Tremor     | Title       | Here's this   |
