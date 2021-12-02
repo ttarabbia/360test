@@ -8,4 +8,7 @@
 	- Things get missed - who's responsible?
 	- How was I supposed to know that?
 # Solution
+	- Top 10 documentation questions and guidelines
+	-
+	- [[Homepage]]
 	-
