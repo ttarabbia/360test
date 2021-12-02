@@ -1,5 +1,5 @@
 # Why Knowledge Management
-	- **Knowledge as the Organization scales** - more interconnectedness = more breaking points
+	- **Knowledge as the Organization scales** - more interconnected people and process = more breaking points
 	- **Knowledge of Technology systems** - powerful when applied well, a pain in the ass when not thought through
 	- **Therapeutic Knowledge** -
 	- **Knowledge of Regulations & Protocols** - clear expectations help employees, especially new ones
