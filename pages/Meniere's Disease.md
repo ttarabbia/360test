@@ -6,4 +6,7 @@
 	- ## Drugs
 		- Meclazine...
 	- ## The Role of Diet
-		-
+		- Salt, Caffeine, ......
+		- Some books and resources
+			- Meniere Man In The Kitchen: Recipes That Helped Me Get Over Meniere's
+			-
