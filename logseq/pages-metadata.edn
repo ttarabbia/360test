@@ -6,15 +6,19 @@
   "../assets/functional-movement-disorders-updated-overview_1638394057025_0.pdf",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
+ {:block/name
+  "../assets/functional-movement-disorders-updated-overview_1638401391773_0.pdf",
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "a",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "abdulaziz m alkahtani",
-  :block/created-at 1638398620883,
-  :block/updated-at 1638398620883}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "ahmed h subki",
-  :block/created-at 1638398620883,
-  :block/updated-at 1638398620883}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "b",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -28,8 +32,8 @@
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "clinical paper",
-  :block/created-at 1638398620883,
-  :block/updated-at 1638398620883}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "contents",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -40,8 +44,8 @@
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
  {:block/name "diagnosis",
-  :block/created-at 1638398620883,
-  :block/updated-at 1638398620883}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "doing",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -62,10 +66,10 @@
   :block/updated-at 1638398620883}
  {:block/name "functional movement disorder",
   :block/created-at 1638379924753,
-  :block/updated-at 1638394416961}
+  :block/updated-at 1638414555738}
  {:block/name "highlights",
-  :block/created-at 1638398620883,
-  :block/updated-at 1638398620883}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name
   "hls__functional-movement-disorders-updated-overview_1638394057025_0",
   :block/created-at 1638398620883,
@@ -81,7 +85,7 @@
   :block/updated-at 1638398620883}
  {:block/name "map of content",
   :block/created-at 1638378680136,
-  :block/updated-at 1638399499897}
+  :block/updated-at 1638414680686}
  {:block/name "now",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -95,11 +99,14 @@
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
  {:block/name "symptoms",
-  :block/created-at 1638398620883,
-  :block/updated-at 1638398620883}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "todo",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
+ {:block/name "treatment",
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "tremor",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
