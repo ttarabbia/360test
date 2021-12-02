@@ -18,6 +18,7 @@ alias:: FMD, Convergence disorder
 				- ((61a8369f-437d-43da-abb5-2f620adefd7d))
 			- [[Hysteria]] - gotta love citations from the 1920s
 				- ((61a83b4a-df0f-43a9-8638-454cb8d44a1c))
+	-
 - Table
   collapsed:: true
 	- | Typical Symptoms     | Description | External Resource -: |

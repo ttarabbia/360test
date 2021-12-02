@@ -1,24 +1,24 @@
-- [[Symptoms]]
-  collapsed:: true
+# [[Symptoms]]
+collapsed:: true
 	-
-- [[Diagnoses]]
+- # [[Diagnoses]]
 	- [[Functional Movement Disorder]]
 	- [[Benign paroxysmal positional vertigo]]
-- [[Maneuvers and treatments]]
+- # [[Maneuvers and treatments]]
   collapsed:: true
 	-
-- [[Tests]]
+- # [[Tests]]
 	- [[Audiogram]]
 	- [[VNG]]
 	- [[ECoG]]
-- [[Drugs]]
-  collapsed:: true
+# [[Drugs]]
+collapsed:: true
 	-
-- [[Protocols]]
-  collapsed:: true
+# [[Protocols]]
+collapsed:: true
 	-
-- [[Operating Procedures [[PT]]]]
-  collapsed:: true
+# [[Operating Procedures [[PT]]]]
+collapsed:: true
 	- [[Reschedules]]
 	- [[Referring out]]
 		- [[Neurologists]]
@@ -26,4 +26,4 @@
 	- [[Hiring Process]]
 	- [[New Hire Onboarding]]
 	- [[Referals]]
-- [[Operating Procedures [[Front Desk]]]]
+# [[Operating Procedures [[Front Desk]]]]
