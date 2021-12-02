@@ -1,7 +1,7 @@
 # Why Knowledge Management
 	- **Knowledge as the Organization scales** - more interconnected people and process = more breaking points
 	- **Knowledge of Technology systems** - powerful when applied well, a pain in the ass when not thought through
-	- **Therapeutic Knowledge** -
+	- **Therapeutic Knowledge** - difficult (wasteful) for an individual keep up with literature and synthesize into action alone
 	- **Knowledge of Regulations & Protocols** - clear expectations help employees, especially new ones
 	- **Internal Knowledge** - People keeping things in their heads = reliance on the individual instead of a system
 	- **Procedural Knowledge** - "The best way to do things" - we could be more effective if only people know how to
