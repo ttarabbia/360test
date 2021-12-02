@@ -8,7 +8,8 @@
 	- Things get missed - who's responsible?
 	- How was I supposed to know that?
 # Solution
-	- Top 10 documentation questions and guidelines
-	-
+	- Think back to hiring someone new - what do they need to know?
+		- Top 10 TheraOffice documentation or billing questions and guidelines
+		- Top 10
 	- [[Homepage]]
 	-
