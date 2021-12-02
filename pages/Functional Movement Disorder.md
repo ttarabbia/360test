@@ -3,12 +3,13 @@ alias:: FMD, Convergence disorder
 - Functional Movement Disorders are characterized by .... and such
 -
 - Table
-	- | Typical Symptoms     | Description | External Resource -: |
-	  | :---        |    :----:   |          ---: |
+	- | Typical Symptoms     | Description | External Resource |
+	  |--|--|--|
 	  | Tremor     | Title       | Here's this   |
 	  | Jerks/twitches   | Text        | And more      |
 	  | Spasm/contractures | words | ![functional-movement-disorders-updated-overview.pdf](../assets/functional-movement-disorders-updated-overview_1638392725184_0.pdf) |
 	  | Gait (walking problems) | difficulty standing up straight while walking, walking unsteadily, dragging a leg, afraid of falling | Resource |
+	  |Words |Words|Words|
 	-
 - Resources
 	- Papers
