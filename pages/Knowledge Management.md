@@ -1,14 +1,15 @@
 # Why Knowledge Management
-	- **Organization scaling** - more interconnectedness = more breaking points
-	- **Technology systems** - powerful when applied well, a pain in the ass when not thought through
-	- **Regulations & Protocols** - clear expectations help employees, especially new ones
+	- **Knowledge as the Organization scales** - more interconnectedness = more breaking points
+	- **Knowledge of Technology systems** - powerful when applied well, a pain in the ass when not thought through
+	- **Therapeutic Knowledge**
+	- **KNowledge of Regulations & Protocols** - clear expectations help employees, especially new ones
 	- **Internal Knowledge** - People keeping things in their heads = reliance on the individual instead of a system
 	- **Procedural Knowledge** - "The best way to do things" - we could be more effective if only people know how to
-# Target Audience
+# Possible Target Audience
 	- New 360 Balance therapists
 	- New 360 Balance front desk staff
 	- Therapists who need a refresher on a specific treatment, test, guideline, etc.
-	- CCVR alums who've forgotten everything and eval'd a patient with vestibular issues and need to prepare for follow-u
+	- CCVR alums who've forgotten everything and eval'd a patient with vestibular issues and need to prepare for follow-up
 # Impact
 	- Things get missed - who's responsible?
 	- How was I supposed to know that?
