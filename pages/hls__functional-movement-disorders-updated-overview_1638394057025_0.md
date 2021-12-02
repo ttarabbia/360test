@@ -17,3 +17,7 @@ file-path:: ../assets/functional-movement-disorders-updated-overview_16383940570
   ls-type:: annotation
   hl-page:: 4
   id:: 61a8369f-437d-43da-abb5-2f620adefd7d
+- ead H (1922) An address on the diagnosis of hysteria Br Med J. 1: 827-829.
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 61a83b4a-df0f-43a9-8638-454cb8d44a1c

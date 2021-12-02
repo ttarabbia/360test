@@ -16,7 +16,8 @@ alias:: FMD, Convergence disorder
 				- ((61a7ea20-d3b7-4d8c-9290-f02f4d23c620))
 			- [[Treatment]]
 				- ((61a8369f-437d-43da-abb5-2f620adefd7d))
-		-
+			- [[Hysteria]] - gotta love citations from the 1920s
+				- ((61a83b4a-df0f-43a9-8638-454cb8d44a1c))
 - Table
   collapsed:: true
 	- | Typical Symptoms     | Description | External Resource -: |
@@ -26,3 +27,4 @@ alias:: FMD, Convergence disorder
 	  | Spasm/contractures | words | ![functional-movement-disorders-updated-overview.pdf](../assets/functional-movement-disorders-updated-overview_1638392725184_0.pdf) |
 	  | Gait (walking problems) | difficulty standing up straight while walking, walking unsteadily, dragging a leg, afraid of falling | Resource |
 	-
+-
