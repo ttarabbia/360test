@@ -1,4 +1,5 @@
 alias:: FMD, Convergence disorder
+tags:: diagnosis, neurological
 
 - Functional Movement Disorders are characterized by .... and such
 -

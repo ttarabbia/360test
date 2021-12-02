@@ -1,3 +1,6 @@
+alias:: Idiopathic Endolymphatic Hydrops
+tags:: diagnosis, hearing loss, hydrops
+
 - Meniere's is characterized by...
 - Example [[Audiogram]]
 	- ![meniereaudio.gif](../assets/meniereaudio_1638464957398_0.gif)

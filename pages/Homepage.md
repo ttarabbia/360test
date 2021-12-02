@@ -1,10 +1,11 @@
 # [[Symptoms]]
 collapsed:: true
 	-
-- # [[Diagnoses]]
+- # [[Diagnosis]]
 	- [[Functional Movement Disorder]]
 	- [[Benign paroxysmal positional vertigo]]
 	- [[Meniere's Disease]]
+	- [[Hydrops]]
 - # [[Maneuvers and treatments]]
   collapsed:: true
 	-

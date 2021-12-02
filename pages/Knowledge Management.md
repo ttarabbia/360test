@@ -5,15 +5,20 @@
 	- **Knowledge of Regulations & Protocols** - clear expectations help employees, especially new ones
 	- **Internal Knowledge** - People keeping things in their heads = reliance on the individual instead of a system
 	- **Procedural Knowledge** - "The best way to do things" - we could be more effective if only people know how to
-# Possible Target Audience
+- # Possible Target Audience
+  collapsed:: true
 	- New 360 Balance therapists
 	- New 360 Balance front desk staff
 	- Therapists who need a refresher on a specific treatment, test, guideline, etc.
 	- CCVR alums who've forgotten everything and eval'd a patient with vestibular issues and need to prepare for follow-up
-# Impact
+- # Impact
+  collapsed:: true
 	- Things get missed - who's responsible?
 	- How was I supposed to know that?
-# Solution
+	- Relearning - rehashing - knowledge lost every time someone leaves
+	- Hard to scale up - especially to new locations
+- # Solution
+  collapsed:: true
 	- Think back to hiring someone new - what do they need to know?
 		- Top 10 TheraOffice documentation or billing questions and guidelines
 		- Top 10 risky symptoms to be careful treating (neck, cardio, etc.)
