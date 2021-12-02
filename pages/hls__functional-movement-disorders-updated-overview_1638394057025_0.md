@@ -13,3 +13,7 @@ file-path:: ../assets/functional-movement-disorders-updated-overview_16383940570
   ls-type:: annotation
   hl-page:: 3
   id:: 61a7ea20-d3b7-4d8c-9290-f02f4d23c620
+- Since the patients have difficulty in accepting the idea of psychogenic origin disorder, they prefer the term ''Functional" movement disorders [75].
+  ls-type:: annotation
+  hl-page:: 4
+  id:: 61a8369f-437d-43da-abb5-2f620adefd7d

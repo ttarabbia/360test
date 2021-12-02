@@ -36,9 +36,6 @@
  {:block/name "convergence disorder",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
- {:block/name "dec 1st, 2021",
-  :block/created-at 1638379359787,
-  :block/updated-at 1638379597912}
  {:block/name "diagnoses",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
