@@ -1,6 +1,10 @@
-# [[Symptoms]]
-collapsed:: true
-	-
+- # [[Symptoms]]
+  collapsed:: true
+	- [[Migraine]]
+	- [[Vertigo]]
+	- [[Imbalance]]
+	- [[Tremor]]
+	- [[Gait]]
 - # [[Diagnosis]]
 	- [[Functional Movement Disorder]]
 	- [[Benign paroxysmal positional vertigo]]
@@ -13,14 +17,14 @@ collapsed:: true
 	- [[Audiogram]]
 	- [[VNG]]
 	- [[ECoG]]
-# [[Drugs]]
-collapsed:: true
+- # [[Drugs]]
+  collapsed:: true
+	- Meclazine
+- # [[Protocols]]
+  collapsed:: true
 	-
-# [[Protocols]]
-collapsed:: true
-	-
-# [[Operating Procedures [[PT]]]]
-collapsed:: true
+- # [[Operating Procedures [[PT]]]]
+  collapsed:: true
 	- [[Reschedules]]
 	- [[Referring out]]
 		- [[Neurologists]]
@@ -28,4 +32,6 @@ collapsed:: true
 	- [[Hiring Process]]
 	- [[New Hire Onboarding]]
 	- [[Referals]]
+	- [[Theraoffice]]
+	- [[Billing]]
 # [[Operating Procedures [[Front Desk]]]]
