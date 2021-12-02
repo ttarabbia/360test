@@ -1,7 +1,7 @@
 - [[Symptoms]]
+  collapsed:: true
 	-
 - [[Diagnoses]]
-  collapsed:: true
 	- [[Functional Movement Disorder]]
 	- [[Benign paroxysmal positional vertigo]]
 - [[Maneuvers and treatments]]
