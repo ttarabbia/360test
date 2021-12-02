@@ -1,8 +1,8 @@
 # Why Knowledge Management
 	- **Knowledge as the Organization scales** - more interconnectedness = more breaking points
 	- **Knowledge of Technology systems** - powerful when applied well, a pain in the ass when not thought through
-	- **Therapeutic Knowledge**
-	- **KNowledge of Regulations & Protocols** - clear expectations help employees, especially new ones
+	- **Therapeutic Knowledge** -
+	- **Knowledge of Regulations & Protocols** - clear expectations help employees, especially new ones
 	- **Internal Knowledge** - People keeping things in their heads = reliance on the individual instead of a system
 	- **Procedural Knowledge** - "The best way to do things" - we could be more effective if only people know how to
 # Possible Target Audience
