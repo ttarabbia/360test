@@ -1,0 +1,2 @@
+- A chart displaying each ears response to sound at different frequencies (typically 60hz to 10khz)
+-
