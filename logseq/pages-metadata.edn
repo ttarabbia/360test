@@ -6,31 +6,30 @@
   "../assets/functional-movement-disorders-updated-overview_1638394057025_0.pdf",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
- {:block/name
-  "../assets/functional-movement-disorders-updated-overview_1638401391773_0.pdf",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
  {:block/name "a",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "abdulaziz m alkahtani",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "ahmed h subki",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "audiogram",
-  :block/created-at 1638469568402,
-  :block/updated-at 1638469575991}
+  :block/created-at 1638464678718,
+  :block/updated-at 1638465427103}
  {:block/name "b",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "benign paroxysmal positional vertigo",
   :block/created-at 1638399540334,
-  :block/updated-at 1638469731779}
+  :block/updated-at 1638399545490}
  {:block/name "billing",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794092,
+  :block/updated-at 1638472794092}
+ {:block/name "bppv",
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "c",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -38,11 +37,11 @@
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "cardiologists",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "clinical paper",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "contents",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -50,11 +49,14 @@
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
  {:block/name "dehiscence",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
+ {:block/name "diagnoses",
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "diagnosis",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794092,
+  :block/updated-at 1638472794092}
  {:block/name "doing",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -62,17 +64,17 @@
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "drugs",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
- {:block/name "dystonia",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
+ {:block/name "dystonia",
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "ecog",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638464659017,
+  :block/updated-at 1638464665380}
  {:block/name "electrocochleography",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "favorites",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -80,48 +82,48 @@
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
  {:block/name "front desk",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "functional movement disorder",
-  :block/created-at 1638415123203,
-  :block/updated-at 1638469333946}
+  :block/created-at 1638379924753,
+  :block/updated-at 1638467365128}
  {:block/name "gait",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794092,
+  :block/updated-at 1638472794092}
  {:block/name "hearing loss",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "highlights",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794092,
+  :block/updated-at 1638472794092}
  {:block/name "hiring process",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name
   "hls__functional-movement-disorders-updated-overview_1638394057025_0",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
  {:block/name "homepage",
-  :block/created-at 1638415376869,
-  :block/updated-at 1638469778195}
+  :block/created-at 1638464592751,
+  :block/updated-at 1638467813402}
  {:block/name "hydrops",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794092,
+  :block/updated-at 1638472794092}
  {:block/name "hysteria",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "idiopathic endolymphatic hydrops",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "imbalance",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794092,
+  :block/updated-at 1638472794092}
  {:block/name "in-progress",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "knowledge management",
-  :block/created-at 1638468606432,
-  :block/updated-at 1638469459489}
+  :block/created-at 1638456466472,
+  :block/updated-at 1638465676543}
  {:block/name "later",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
@@ -129,77 +131,74 @@
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
  {:block/name "meniere's disease",
-  :block/created-at 1638469342932,
-  :block/updated-at 1638469396152}
+  :block/created-at 1638464955444,
+  :block/updated-at 1638468173698}
  {:block/name "migraine",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "neurological",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "neurologists",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "new hire onboarding",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "now",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "operating procedures [[front desk]]",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "operating procedures [[pt]]",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
- {:block/name "operating procedures/front desk",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "protocols",
   :block/created-at 1638398620883,
   :block/updated-at 1638398620883}
  {:block/name "pt",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "referals",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "referring out",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638398620883,
+  :block/updated-at 1638398620883}
  {:block/name "reschedules",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "spinning",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "symptoms",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "tests",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "theraoffice",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "todo",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
  {:block/name "treatment",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638414898679,
+  :block/updated-at 1638414898679}
  {:block/name "tremor",
-  :block/created-at 1638398620883,
-  :block/updated-at 1638398620883}
+  :block/created-at 1638472794091,
+  :block/updated-at 1638472794091}
  {:block/name "vertigo",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638472794092,
+  :block/updated-at 1638472794092}
  {:block/name "videonystagmography",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638468153633,
+  :block/updated-at 1638468153633}
  {:block/name "vng",
-  :block/created-at 1638470599415,
-  :block/updated-at 1638470599415}
+  :block/created-at 1638464648316,
+  :block/updated-at 1638464652551}
  {:block/name "wait",
   :block/created-at 1638378680136,
   :block/updated-at 1638378680136}
