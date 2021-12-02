@@ -8,7 +8,6 @@
   collapsed:: true
 	-
 - [[Tests]]
-  collapsed:: true
 	- [[Audiogram]]
 	- [[VNG]]
 	- [[ECoG]]
