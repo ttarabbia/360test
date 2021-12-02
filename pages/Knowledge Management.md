@@ -4,6 +4,10 @@
 	- **Regulations & Protocols** - clear expectations help employees, especially new ones
 	- **Internal Knowledge** - People keeping things in their heads = reliance on the individual instead of a system
 	- **Procedural Knowledge** - "The best way to do things" - we could be more effective if only people know how to
+# Target Audience
+	- New 360 Balance therapists
+	- New 360 Balance front desk staff
+	- Therapists who need a refresher on a
 # Impact
 	- Things get missed - who's responsible?
 	- How was I supposed to know that?
@@ -16,4 +20,4 @@
 		- How to refer out to other specialists
 		- Managing scheduling and reschedules
 	- [[Homepage]]
-	-
+-
