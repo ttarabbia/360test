@@ -14,4 +14,7 @@
 		- High frequency hearing loss...
 	- ![Audiogram.gif](../assets/Audiogram_1638465137272_0.gif)
 		- blah blah blah
-		-
+# Resources
+	- Books
+	- Papers
+	-
