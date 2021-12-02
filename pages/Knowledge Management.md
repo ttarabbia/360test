@@ -7,7 +7,8 @@
 # Target Audience
 	- New 360 Balance therapists
 	- New 360 Balance front desk staff
-	- Therapists who need a refresher on a
+	- Therapists who need a refresher on a specific treatment, test, guideline, etc.
+	- CCVR alums who've forgotten everything and eval'd a patient with vestibular issues and need to prepare for follow-u
 # Impact
 	- Things get missed - who's responsible?
 	- How was I supposed to know that?
