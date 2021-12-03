@@ -17,7 +17,6 @@ tags:: diagnosis, neurological
 	- Papers
 		- ![functional-movement-disorders-updated-overview.pdf](../assets/functional-movement-disorders-updated-overview_1638394057025_0.pdf)
 			- Metadata
-			  collapsed:: true
 				-
 				  type:: [[Clinical Paper]]
 				  authors:: Ahmed H Subki, Abdulaziz M Alkahtani

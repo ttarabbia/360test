@@ -1,5 +1,4 @@
 - # [[Symptoms]]
-  collapsed:: true
 	- [[Migraine]]
 	- [[Vertigo]]
 	- [[Imbalance]]
@@ -17,11 +16,11 @@
 	- [[Audiogram]]
 	- [[VNG]]
 	- [[ECoG]]
+	- [[Vemp]]
 - # [[Drugs]]
   collapsed:: true
 	- Meclazine
 - # [[Protocols]]
-  collapsed:: true
 	-
 - # [[Operating Procedures [[PT]]]]
   collapsed:: true
@@ -35,3 +34,5 @@
 	- [[Theraoffice]]
 	- [[Billing]]
 # [[Operating Procedures [[Front Desk]]]]
+# [[Patient Education]]
+# [[Questionnaires]]
